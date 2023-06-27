@@ -1,1 +1,3 @@
 # OsborneShelby.github.io
+
+Prepare for the Blog......
